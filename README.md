@@ -12,7 +12,6 @@ Backend .NET Developer | Web API | MVC
 - Entity Framework
 - Unit testing and integration testing
 
-💼 Currently, I'm working on challenging projects where I get to leverage my skills to deliver high-performance and reliable backend solutions. I enjoy collaborating with cross-functional teams and thrive in an agile development environment.
 
 🌱 I believe in continuous learning and staying updated with the latest trends and best practices in backend development. I'm always excited to explore new technologies and frameworks that can enhance my skill set.
 
