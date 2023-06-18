@@ -29,5 +29,10 @@ Here are some stats of my recent commits on GitHub:
 
 ![Dimal Maloku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DimalMaloku1&show_icons=true&theme=radical)
 
+![.NET Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/200px-.NET_Core_Logo.svg.png)
+
+[![React Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/200px-React-icon.svg.png)](https://reactjs.org/)
+
+
 
 Looking forward to connecting with fellow developers and contributing to innovative projects! 😄
