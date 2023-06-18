@@ -1,6 +1,6 @@
 # Backend .NET Developer | Web API | MVC
 
-👋 Hi there! I'm [Your Name], a passionate backend developer specializing in .NET technologies. With a focus on building scalable and robust Web APIs and MVC applications, I strive to create efficient solutions that drive impactful user experiences.
+👋 Hi there! I'm Dimal Maloku, a passionate backend developer specializing in .NET technologies. With a focus on building scalable and robust Web APIs and MVC applications, I strive to create efficient solutions that drive impactful user experiences.
 
 ## 🚀 Expertise
 
