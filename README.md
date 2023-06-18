@@ -26,7 +26,8 @@ I believe in continuous learning and staying updated with the latest trends and 
 
 Here are some stats of my recent commits on GitHub:
 
-<!-- Replace `[YOUR_USERNAME]` with your GitHub username -->
-https://github-readme-stats.vercel.app/api?username=DimalMaloku1&show_icons=true&theme=radical
+
+![Dimal Maloku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DimalMaloku1&show_icons=true&theme=radical)
+
 
 Looking forward to connecting with fellow developers and contributing to innovative projects! 😄
