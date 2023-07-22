@@ -41,19 +41,19 @@ Here are some stats of my recent commits on GitHub:
 
 
 
-[![React Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/50px-React-icon.svg.png)](https://reactjs.org/)
-![.NET Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/50px-.NET_Core_Logo.svg.png)
-<img src="https://img.icons8.com/color/100/000000/php.png" alt="PHP Logo" width="40">
-<img src="https://img.icons8.com/color/100/000000/html-5--v1.png" alt="HTML Logo" width="40">
-<img src="https://img.icons8.com/color/100/000000/css3.png" alt="CSS Logo" width="40">
-<img src="https://img.icons8.com/color/100/000000/javascript--v1.png" alt="JavaScript Logo" width="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/256px-Npm-logo.svg.png" alt="NPM Logo" width="40">
-<img src="https://vuejs.org/images/logo.png" alt="Vue.js Logo" width="40">
-<img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="Bootstrap Logo" width="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD Logo" width="40">
-<img src="https://dev.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="50">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-black-and-white.png" alt="Unity Logo" width="40">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" alt="Python Logo" width="40">
+[![React Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/30px-React-icon.svg.png)](https://reactjs.org/)
+![.NET Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/30px-.NET_Core_Logo.svg.png)
+<img src="https://img.icons8.com/color/100/000000/php.png" alt="PHP Logo" width="30">
+<img src="https://img.icons8.com/color/100/000000/html-5--v1.png" alt="HTML Logo" width="30">
+<img src="https://img.icons8.com/color/100/000000/css3.png" alt="CSS Logo" width="30">
+<img src="https://img.icons8.com/color/100/000000/javascript--v1.png" alt="JavaScript Logo" width="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/256px-Npm-logo.svg.png" alt="NPM Logo" width="30">
+<img src="https://vuejs.org/images/logo.png" alt="Vue.js Logo" width="30">
+<img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="Bootstrap Logo" width="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD Logo" width="30">
+<img src="https://dev.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="30">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-black-and-white.png" alt="Unity Logo" width="30">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" alt="Python Logo" width="30">
 
 
 
