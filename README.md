@@ -39,6 +39,8 @@ Here are some stats of my recent commits on GitHub:
 ![.NET Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/100px-.NET_Core_Logo.svg.png)
 ![PHP Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/100px-PHP-logo.svg.png)
 ![HTML Logo](https://img.icons8.com/color/100/000000/html-5--v1.png)
+![CSS Logo](https://img.icons8.com/color/100/000000/css3.png)
+![JavaScript Logo](https://img.icons8.com/color/100/000000/javascript--v1.png)
 
 
 
