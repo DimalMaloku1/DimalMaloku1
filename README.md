@@ -27,7 +27,8 @@ I believe in continuous learning and staying updated with the latest trends and 
 Here are some stats of my recent commits on GitHub:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimalMaloku1&layout=compact&theme=radical)](https://github.com/DimalMaloku1)  [![Dimal Maloku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DimalMaloku1&show_icons=true&theme=radical)](https://github.com/DimalMaloku1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimalMaloku1&layout=compact&theme=radical)](https://github.com/DimalMaloku1)
+[![Dimal Maloku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DimalMaloku1&show_icons=true&theme=radical)](https://github.com/DimalMaloku1)
 
 
 
@@ -36,7 +37,7 @@ Here are some stats of my recent commits on GitHub:
 
 [![React Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/100px-React-icon.svg.png)](https://reactjs.org/)
 ![.NET Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/100px-.NET_Core_Logo.svg.png)
-![HTML Logo](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![PHP Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/100px-PHP-logo.svg.png)
 
 
 
