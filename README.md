@@ -53,6 +53,7 @@ Here are some stats of my recent commits on GitHub:
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD Logo" width="40">
 <img src="https://dev.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="50">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-black-and-white.png" alt="Unity Logo" width="40">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" alt="Python Logo" width="40">
 
 
 
