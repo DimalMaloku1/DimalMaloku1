@@ -48,7 +48,8 @@ Here are some stats of my recent commits on GitHub:
 
 Looking forward to connecting with fellow developers and contributing to innovative projects! 😄
 
-![Profile Views](https://github-profile-views-counter.glitch.me/count.svg?url=https://github.com/DimalMaloku1)
+![Profile Views](https://github-readme-views-count.herokuapp.com/?user=DimalMaloku1)
+
 
 
 
