@@ -32,7 +32,8 @@ Here are some stats of my recent commits on GitHub:
 
 
 
-![Project Views](https://github-readme-stats.vercel.app/api?username=DimalMaloku1&count_private=true&show_icons=true&hide_title=true)
+![Profile Views](https://github-readme-views-count.herokuapp.com/?user=DimalMaloku1)
+
 
 
 
