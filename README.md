@@ -1,4 +1,4 @@
-![image](https://github.com/DimalMaloku1/DimalMaloku1/assets/96485417/6f054854-d102-41b4-8653-ea17e27df0f5)# Backend .NET Developer | Web API | MVC
+MVC
 
 <img src="https://komarev.com/ghpvc/?username=DimalMaloku1&color=green" alt="Profile Views" width="182" height="36">
 
