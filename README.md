@@ -34,7 +34,7 @@ Here are some stats of my recent commits on GitHub:
 
 
 
-![Profile Views](https://github-readme-views-count.herokuapp.com/?username=DimalMaloku1)
+![Profile Views](https://gpvc.arturio.dev/DimalMaloku1)
 
 
 
