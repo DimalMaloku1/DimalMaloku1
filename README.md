@@ -39,10 +39,7 @@ Here are some stats of my recent commits on GitHub:
 
 
 
-
-
-       ![React Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/30px-React-icon.svg.png)
-      
+![React Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/30px-React-icon.svg.png)
        ![.NET Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/30px-.NET_Core_Logo.svg.png)
 <img src="https://img.icons8.com/color/100/000000/php.png" alt="PHP Logo" width="30">
 <img src="https://img.icons8.com/color/100/000000/html-5--v1.png" alt="HTML Logo" width="30">
