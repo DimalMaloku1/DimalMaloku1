@@ -48,5 +48,6 @@ Here are some stats of my recent commits on GitHub:
 
 Looking forward to connecting with fellow developers and contributing to innovative projects! 😄
 
-![Profile Views](https://komarev.com/ghpvc/?username=DimalMaloku1)
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=green&label=Profile%20Views&query=$.profileViews&url=https://api.countapi.xyz/hit/dimalmaloku1/profile-views)
+
 
