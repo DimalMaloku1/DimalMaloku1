@@ -32,9 +32,9 @@ Here are some stats of my recent commits on GitHub:
 
 
 
-![Profile Views](https://github-readme-views-count.herokuapp.com/?user=DimalMaloku1)
 
 
+![Profile Views](https://github-readme-views-count.herokuapp.com/?username=DimalMaloku1)
 
 
 
