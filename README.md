@@ -69,7 +69,7 @@ Here are some stats of my recent commits on GitHub:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" width="42" alt="vim logo"  />
 </div>
 
-###
+
 
 
 
@@ -82,17 +82,8 @@ Looking forward to connecting with fellow developers and contributing to innovat
 
 
 
-###
 
-<div align="center">
-  <style>
-    .counter {
-      color: blue;
-    }
-  </style>
-  <img src="https://profile-counter.glitch.me/eno-lc/count.svg?" class="counter" />
-</div>
+![Visitor Count](https://profile-counter.glitch.me/DimalMaloku1/count.svg)
 
 
-###
 
