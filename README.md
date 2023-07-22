@@ -1,4 +1,4 @@
-# Backend .NET Developer | Web API | MVC
+![image](https://github.com/DimalMaloku1/DimalMaloku1/assets/96485417/6f054854-d102-41b4-8653-ea17e27df0f5)# Backend .NET Developer | Web API | MVC
 
 <img src="https://komarev.com/ghpvc/?username=DimalMaloku1&color=green" alt="Profile Views" width="182" height="36">
 
@@ -60,9 +60,10 @@ Here are some stats of my recent commits on GitHub:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" width="42" alt="windows logo"  /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" width="42" alt="vs logo"  /> 
-  <img src="https://www.flaticon.com/free-icon/database_4248443?related_id=4248340&origin=search" height="30" width="42" alt="mssql logo"  /> 
+  <img src="" height="30" width="42" alt="mssql logo"  /> 
 
 </div>
+![image](https://github.com/DimalMaloku1/DimalMaloku1/assets/96485417/49556d4c-e5be-4b8b-98e2-0bab0b145cb4)
 
 
 
