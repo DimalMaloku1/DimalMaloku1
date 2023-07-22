@@ -59,7 +59,7 @@ Here are some stats of my recent commits on GitHub:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" width="42" alt="windows logo"  /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" width="42" alt="vs logo"  /> 
-  <img src="https://github.com/DimalMaloku1/DimalMaloku1/assets/96485417/49556d4c-e5be-4b8b-98e2-0bab0b145cb4" height="30" width="42" alt="mssql logo"  /> 
+  <img src="https://github.com/DimalMaloku1/DimalMaloku1/assets/96485417/49556d4c-e5be-4b8b-98e2-0bab0b145cb4" height="30" width="38" alt="mssql logo"  /> 
 
 </div>
 
