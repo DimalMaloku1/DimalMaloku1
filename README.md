@@ -1,4 +1,4 @@
-# Backend Developer .NET |Web API | MVC|
+# Backend Developer .NET MVC | Web Api
 
 <img src="https://komarev.com/ghpvc/?username=DimalMaloku1&color=green" alt="Profile Views" width="182" height="36">
 
