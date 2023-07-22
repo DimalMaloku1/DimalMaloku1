@@ -29,11 +29,15 @@ I believe in continuous learning and staying updated with the latest trends and 
 Here are some stats of my recent commits on GitHub:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimalMaloku1&layout=compact&theme=radical&langs_count=8)](https://github.com/DimalMaloku1)
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/DimalMaloku1">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimalMaloku1&layout=compact&theme=radical&langs_count=8" alt="Top Langs" width="400px">
+  </a>
+  <a href="https://github.com/DimalMaloku1">
+    <img src="https://github-readme-stats.vercel.app/api?username=DimalMaloku1&show_icons=true&theme=radical" alt="Dimal Maloku's GitHub Stats" width="400px">
+  </a>
+</div>
 
-
-
-[![Dimal Maloku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DimalMaloku1&show_icons=true&theme=radical)](https://github.com/DimalMaloku1)
 
 
 
