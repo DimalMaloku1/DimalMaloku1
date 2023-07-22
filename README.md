@@ -1,6 +1,6 @@
 # Backend .NET Developer | Web API | MVC
 
-<img src="https://komarev.com/ghpvc/?username=DimalMaloku1&color=green" alt="Profile Views" width="200" height="20">
+<img src="https://komarev.com/ghpvc/?username=DimalMaloku1&color=green" alt="Profile Views" width="200" height="30">
 
 👋 Hi there! I'm Dimal Maloku, a passionate backend developer specializing in .NET technologies. With a focus on building scalable and robust Web APIs and MVC applications, I strive to create efficient solutions that drive impactful user experiences.
 
