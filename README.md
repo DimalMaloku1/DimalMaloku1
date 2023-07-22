@@ -83,7 +83,9 @@ Looking forward to connecting with fellow developers and contributing to innovat
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/DimalMaloku1/count.svg)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/eno-lc/count.svg?"  />
+</div>
 
 
 
