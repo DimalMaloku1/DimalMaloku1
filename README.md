@@ -48,6 +48,9 @@ Here are some stats of my recent commits on GitHub:
 <img src="https://img.icons8.com/color/100/000000/css3.png" alt="CSS Logo" width="50">
 <img src="https://img.icons8.com/color/100/000000/javascript--v1.png" alt="JavaScript Logo" width="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/256px-Npm-logo.svg.png" alt="NPM Logo" width="50">
+<img src="https://vuejs.org/images/logo.png" alt="Vue.js Logo" width="50">
+<img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="Bootstrap Logo" width="50">
+
 
 
 
