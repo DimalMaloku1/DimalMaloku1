@@ -48,6 +48,7 @@ Here are some stats of my recent commits on GitHub:
 
 Looking forward to connecting with fellow developers and contributing to innovative projects! 😄
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=green&label=Profile%20Views&query=$.profileViews&url=https://api.countapi.xyz/hit/dimalmaloku1/profile-views)
+![Profile Views](https://github-profile-views-counter.glitch.me/count.svg?url=https://github.com/DimalMaloku1)
+
 
 
