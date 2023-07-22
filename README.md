@@ -29,20 +29,10 @@ I believe in continuous learning and staying updated with the latest trends and 
 Here are some stats of my recent commits on GitHub:
 
 
-![Dimal Maloku's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimalMaloku1&show_icons=true&theme=radical)
-
-
-
-
-
-
-
-
-
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=eno-lc" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=eno-lc" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=DimalMaloku1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=DimalMaloku1" height="150" alt="languages graph"/>
 </div>
 
 <div align="center">
