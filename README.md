@@ -76,10 +76,17 @@ Here are some stats of my recent commits on GitHub:
 
 
 
+
 Looking forward to connecting with fellow developers and contributing to innovative projects! 😄
 
 
 
 
+###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/DimalMaloku1/count.svg?"  />
+</div>
+
+###
 
