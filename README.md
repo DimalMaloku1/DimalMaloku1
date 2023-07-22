@@ -60,7 +60,7 @@ Here are some stats of my recent commits on GitHub:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" width="42" alt="windows logo"  /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" width="42" alt="vs logo"  /> 
-  <img src="https://e7.pngegg.com/pngimages/424/702/png-clipart-microsoft-sql-server-database-microsoft-corporation-application-software-sql-logo-angle-triangle.png" height="30" width="42" alt="mssql logo"  /> 
+  <img src="https://www.flaticon.com/free-icon/database_4248443?related_id=4248340&origin=search" height="30" width="42" alt="mssql logo"  /> 
 
 </div>
 
