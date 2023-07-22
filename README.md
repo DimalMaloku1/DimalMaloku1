@@ -82,7 +82,7 @@ Looking forward to connecting with fellow developers and contributing to innovat
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/eno-lc/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/DimalMaloku1/count.svg?"  />
 </div>
 
 
