@@ -22,7 +22,7 @@ Currently, I'm working on challenging projects where I get to leverage my skills
 I believe in continuous learning and staying updated with the latest trends and best practices in backend development. I'm always excited to explore new technologies and frameworks that can enhance my skill set.
 
 ## 📱 Collaboration and Inquiry - Let's Connect! 🤝
-Feel free to reach out to me at 📧 your-email@example.com 📧 to discuss potential collaborations or to learn more about my work.
+Feel free to reach out to me at 📧 malimaloku4@gmai.com|dm51522@ubt-uni.net|malioso223@gmail.com 📧 to discuss potential collaborations or to learn more about my work.
 
 
 
