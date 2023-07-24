@@ -1,5 +1,7 @@
 # 🐱‍💻 Full-Stack Developer | .NET MVC | Web API | Frontend 🌐🚀
-
+<p align="center">
+  <img src="https://media.giphy.com/media/xrDdo5kuHzwxG/giphy.gif" alt="Flappy Bird GIF">
+</p>
 **👋 Hi there!** I'm Dimal Maloku, a passionate full-stack developer with expertise in .NET technologies. With a focus on building scalable and robust Web APIs and MVC applications, I strive to create efficient solutions that drive impactful user experiences. I enjoy working on both the backend and frontend to deliver end-to-end solutions. Let's embark on a coding adventure together! 🚀🔥
 
 ## 🛠️ Expertise
@@ -61,11 +63,6 @@ Here are some stats of my recent commits on GitHub:
 
 </div>
 
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="Emoji">
-</p>
 
 
 Looking forward to connecting with fellow developers and contributing to innovative projects! 😄 Let's create magic with code! 🦄🌟
