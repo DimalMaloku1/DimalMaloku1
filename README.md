@@ -62,7 +62,7 @@ Here are some stats of my recent commits on GitHub:
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUA7bgXp84khigkqOk/giphy.gif" alt="Coding">
+  <img src="https://media.giphy.com/media/xrDdo5kuHzwxG/giphy.gif" alt="Flappy Bird GIF">
 </p>
 
 Looking forward to connecting with fellow developers and contributing to innovative projects! 😄 Let's create magic with code! 🦄🌟
