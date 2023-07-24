@@ -65,6 +65,7 @@ Here are some stats of my recent commits on GitHub:
   <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" alt="Gorilla GIF">
 </p>
 
+
 Looking forward to connecting with fellow developers and contributing to innovative projects! 😄 Let's create magic with code! 🦄🌟
 
 
