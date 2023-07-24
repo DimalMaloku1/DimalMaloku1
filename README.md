@@ -37,8 +37,9 @@ Here are some stats of my recent commits on GitHub:
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="Hacking GIF">
+  <img src="https://raw.githubusercontent.com/DimalMaloku1/DimalMaloku1/main/assets/hacking.gif" alt="Hacking GIF">
 </div>
+
 
 Looking forward to connecting with fellow developers and contributing to innovative projects! 😄 Let's create magic with code! 🦄🌟
 
