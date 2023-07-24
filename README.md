@@ -35,8 +35,9 @@ Here are some stats of my recent commits on GitHub:
 
 ## Hacking into the Code 🐱‍💻🌌
 
+
 <div align="center">
-  <img src="https://media.giphy.com/media/12BYUePgtn7sis/giphy.gif" alt="Hacking GIF">
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="Hacking GIF">
 </div>
 
 Looking forward to connecting with fellow developers and contributing to innovative projects! 😄 Let's create magic with code! 🦄🌟
