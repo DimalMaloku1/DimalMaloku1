@@ -33,12 +33,11 @@ Here are some stats of my recent commits on GitHub:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=DimalMaloku1" height="180" alt="languages graph"/>
 </div>
 
-## Hacking into the Code 🐱‍💻🌌
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DimalMaloku1/DimalMaloku1/main/assets/hacking.gif" alt="Hacking GIF">
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="Emoji">
+</p>
 
 
 Looking forward to connecting with fellow developers and contributing to innovative projects! 😄 Let's create magic with code! 🦄🌟
