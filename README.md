@@ -67,7 +67,7 @@ Here are some stats of my recent commits on GitHub:
 
 
 
-Looking forward to connecting with fellow developers and contributing to innovative projects! 😄 Let's create magic with code! 🦄🌟
+Looking forward to connecting with fellow developers and contributing to innovative projects! 😄 Let's create magic with code! 🐱‍💻🌟
 
 
 
