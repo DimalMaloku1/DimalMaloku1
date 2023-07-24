@@ -62,7 +62,7 @@ Here are some stats of my recent commits on GitHub:
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" alt="Gorilla GIF">
+  <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif"alt="Gorilla GIF">
 </p>
 
 
