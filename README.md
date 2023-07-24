@@ -62,7 +62,7 @@ Here are some stats of my recent commits on GitHub:
 </div>
 
 <p align="center">
-  <img src="https://imgur.com/hDOfuOx" alt="Hacker GIF">
+  <img src="https://media.tenor.com/VrzXhtoSwcsAAAAd/hacker-typing.gif" alt="Hacker GIF">
 </p>
 
 
