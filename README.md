@@ -15,7 +15,7 @@
 - **RESTful API development**
 - **Entity Framework**
 - **Unit testing and integration testing**
-- **Frontend technologies: HTML, CSS, JavaScript, React (or any other frontend frameworks you are familiar with)**
+- **Frontend technologies: HTML, CSS, JavaScript, React (or any other frontend frameworks that are familiar with)**
 
 ## 💼 Current Projects
 
