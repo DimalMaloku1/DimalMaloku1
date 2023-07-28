@@ -67,7 +67,6 @@ Here are some stats of my recent commits on GitHub:
   <img src="https://github.com/DimalMaloku1/DimalMaloku1/assets/96485417/49556d4c-e5be-4b8b-98e2-0bab0b145cb4" height="30" width="38" alt="mssql logo"  /> 
 
 </div>
-
 <p align="center">
   <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" alt="Hacker GIF">
 </p>
