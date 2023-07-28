@@ -3,6 +3,7 @@
 **👋 Hi there!** I'm Dimal Maloku, a passionate full-stack developer with expertise in .NET technologies. With a focus on building scalable and robust Web APIs and MVC applications, I strive to create efficient solutions that drive impactful user experiences. I enjoy working on both the backend and frontend to deliver end-to-end solutions. Let's embark on a coding adventure together! 🚀🔥
 
 <div align="center">
+  
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZnNjl3ZzRpc2dwa216N212NjkxaDBkODExMzA4aGhubWV0OTNncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1n9GuQCT24ox88sPXB/giphy.gif" alt="Hacker GIF" width="300">
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZnNjl3ZzRpc2dwa216N212NjkxaDBkODExMzA4aGhubWV0OTNncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1n9GuQCT24ox88sPXB/giphy.gif" alt="Hacker GIF" width="300">
