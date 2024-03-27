@@ -20,14 +20,6 @@
 - **Unit testing and integration testing**
 - **Frontend technologies: HTML, CSS, JavaScript, React (or any other frontend frameworks that are familiar with)**
 
-## 💼 Current Projects
-
-I'm currently working on challenging projects that allow me to leverage my skills to deliver high-performance and reliable full-stack solutions. I enjoy collaborating with cross-functional teams and thrive in an agile development environment. Let's build something awesome together! 🌟🚀
-
-## 🌱 Continuous Learning
-
-I believe in continuous learning and staying updated with the latest trends and best practices in full-stack development. I'm always excited to explore new technologies and frameworks that can enhance my skill set. Learning is a never-ending journey! 🌱🚀
-
 ## 📱 Collaboration and Inquiry - Let's Connect! 🤝
 Feel free to reach out to me at 📧 malimaloku4@gmail.com | dm51522@ubt-uni.net | malioso223@gmail.com 📧 to discuss potential collaborations or to learn more about my work.
 
